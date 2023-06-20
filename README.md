@@ -9,6 +9,8 @@ LiteMesh strives to achieve the following objectives:
 - **Simplified Distributed Systems**: Enable developers to easily build distributed systems, even without extensive knowledge of distributed systems concepts.
 - **Effortless Communication**: Facilitate messaging between instances of an application using unicast, anycast, or broadcast methods, even in cases where a direct route is unavailable.
 - **Flexible Connectivity**: Support communication over various means, including TCP, shared files, and databases, allowing seamless integration into diverse infrastructure setups.
+- **Library for Server/Node Components**: Use the server/node component library to seamlessly integrate LiteMesh into your existing application's infrastructure.
+- **Client Library**: Utilize the client library to query and interact with the distributed system through any available means, providing flexibility and accessibility.
 - **Service Discovery**: Enable automatic discovery of services and capabilities within the distributed system graph, enhancing dynamic interaction and integration.
 - **Querying Capabilities**: Provide the ability to query the state of specific nodes or services within the distributed system, enabling efficient distributed monitoring, troubleshooting, and decision-making.
 
