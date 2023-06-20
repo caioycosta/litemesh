@@ -18,6 +18,8 @@ LiteMesh strives to achieve the following objectives:
 
 LiteMesh is currently under development and is not yet ready for production use. We are actively working on implementing the core features and ensuring stability and performance. As we make progress, we will update the repository with more information, documentation, and examples.
 
+**Please note that LiteMesh will initially be developed as a Python module, with plans for future language portability.**
+
 ## Contributing
 
 We welcome contributions from the open-source community to help improve and enhance LiteMesh. If you'd like to contribute, please stay tuned for updates regarding contribution guidelines and ways to get involved. We greatly appreciate your support!
@@ -29,4 +31,3 @@ LiteMesh is an open-source project and will be released under the [Apache Licens
 ## Support
 
 Thank you for your interest in LiteMesh! Currently, the project is under development and not yet ready for public use. As a result, we do not have any support channels available at this time. We appreciate your patience and look forward to sharing updates as the project progresses.
-
